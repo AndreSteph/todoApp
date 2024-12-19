@@ -3,6 +3,9 @@
 
 This is a simple To-Do List application built using Flutter. It allows users to manage tasks, view task categories, and view images stored in the assets.
 
+##Login
+To log in, you have to type any email address in the correct format and any password not less than 6 letters
+
 ## Features
 - Add, Edit, and Delete tasks
 - View categorized tasks (e.g., Work, Personal, Shopping, Health)
