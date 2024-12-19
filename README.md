@@ -21,5 +21,5 @@ Make sure you have the following installed:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/flutter-todo-app.git
+git clone https://github.com/AndreSteph/flutter-todo-app.git
 cd flutter-todo-app
